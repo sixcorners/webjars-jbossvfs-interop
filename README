@@ -1,0 +1,3 @@
+webjars-locator likes to list the directories of things on the classpath.
+To do this it has built in handlers for URLs with the jar and file schemas.
+Here is an implementation that works with JBoss's VFS software/schema.
